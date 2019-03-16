@@ -15,3 +15,9 @@
 	<u><u><a href="/EasyRecove.7z" target="_blank">/EasyRecove.7z</a></u><br />
 </u>
 </p>
+
+<p>
+	<u><u><a href="/7Data.exe" target="_blank">/7Data.exe</a></u><br />
+</u>
+</p>
+
