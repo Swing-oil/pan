@@ -2,7 +2,7 @@
 	<u>油油的盘</u>
 </h1>
 <p>
-	<u><a href="/ssh.rar" target="_blank">/ssr.rar</a><br />
+	<u><a href="/IDM-v6.28.15.zip" target="_blank">/IDM-v6.28.15.zip</a><br />
 </u>
 </p>
 <p>
