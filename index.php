@@ -10,3 +10,8 @@
 	<u><u><a href="/opera.exe" target="_blank">/opera.exe</a></u><br />
 </u>
 </p>
+
+<p>
+	<u><u><a href="/EasyRecove.7z" target="_blank">/EasyRecove.7z</a></u><br />
+</u>
+</p>
